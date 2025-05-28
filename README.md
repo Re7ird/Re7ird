@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Re7ird
-- 👀 I’m interested in Economics
-- 🌱 I’m currently studying R
-- 💞️ I’m currently a Msc Student in ECON
+- 👀 I’m interested in Econometrics and computational finance
+- 🌱 I’m currently studying Financial Machine Learning
+- 💞️ I’m currently employed at a securities firm.
 - 📫 How to reach me ...
 - my email address:
-- 1155184716@link.cuhk.edu.hk
+- a993503077@126.com
 
 <!---
 Re7ird/Re7ird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
